@@ -1,1 +1,1 @@
-# Implementação dos índices de Shannon e Simpson para extração de características em imagens de melanoma e não melanoma, segmentadas, da base PH2.
+<h3> Implementation of Shannon and Simpson indices for feature extraction in segmented melanoma and non-melanoma images from the PH2 database. </h3>
